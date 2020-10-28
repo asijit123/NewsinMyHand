@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808122092474",
+    "firebase_url": "https://newsinmyhand.firebaseio.com",
+    "project_id": "newsinmyhand",
+    "storage_bucket": "newsinmyhand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808122092474:android:6d973b3f32840c088c6b83",
+        "android_client_info": {
+          "package_name": "com.example.newsinmyhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808122092474-1q3ai1kqkfflrscdf1pheao4pobb1mv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsinmyhand",
+            "certificate_hash": "ba8b409c1069fd45212b2ef1c62f59f9b6758ab6"
+          }
+        },
+        {
+          "client_id": "808122092474-846qtlgjjkgb1p3clk57i8lgrpbt8n4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QNaR2nwXuqurecRyps4dNo24DjReKTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808122092474-846qtlgjjkgb1p3clk57i8lgrpbt8n4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
